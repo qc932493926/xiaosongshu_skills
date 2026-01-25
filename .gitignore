@@ -34,3 +34,5 @@ pip-log.txt
 dist/
 build/
 *.egg-info/
+
+self_contens/
